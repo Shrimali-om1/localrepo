@@ -6,3 +6,15 @@ h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: black;
 }
+button{
+    padding: 1.3vh;
+    border: #0c0c0c solid 3px;
+    border-radius: 50px;
+    color: rgba(124, 219, 187, 0.744);
+    font-size: 1em;
+    background-color: #0c0c0c;
+}
+button:hover{
+    border:  rgb(136, 199, 178) solid 3px;
+    color: rgb(136, 199, 178);
+}
